@@ -19,6 +19,7 @@ Bitstream Vera Sans Mono.
 v1.0
 
  * First release! Based on DejaVu Sans Mono 2.37.
+ * The main differences are with the following characters: ` 1 i - _ = ' " ^ # * % @ ~ `
 
 ![Version 1.0 glyphs](doc/monotional-glyphs.png)
 
