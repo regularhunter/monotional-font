@@ -1,3 +1,5 @@
+![Typeface graphic](doc/monotional.png)
+
 # Monotional
 
 ### Version 1.0
@@ -16,7 +18,9 @@ Bitstream Vera Sans Mono.
 
 v1.0
 
- * First release!
+ * First release! Based on DejaVu Sans Mono 2.37.
+
+![Version 1.0 glyphs](doc/monotional-glyphs.png)
 
 ### Copyright and Trademark Information
 
