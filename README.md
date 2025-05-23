@@ -14,6 +14,8 @@ in order to fix some issues with it until I realized it would be easier to
 start over from scratch with DejaVu Sans Mono, which is itself based on 
 Bitstream Vera Sans Mono.
 
+![Ipsum lorem](doc/monotional-ipsumlorem.png)
+
 ### History
 
 v1.0
