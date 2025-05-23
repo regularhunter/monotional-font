@@ -15,7 +15,7 @@ Bitstream Vera Sans Mono.
 
 v1.0
 
-First release!
+ * First release!
 
 ### Copyright and Trademark Information
 
