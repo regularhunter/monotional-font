@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1747970901
+ModificationTime: 1747973619
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1546,7 +1546,7 @@ StartChar: numbersign
 Encoding: 35 35 6
 Width: 1233
 GlyphClass: 2
-Flags: W
+Flags: WO
 TtInstrs:
 NPUSHB
  51
