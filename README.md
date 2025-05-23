@@ -14,7 +14,7 @@ in order to fix some issues with it until I realized it would be easier to
 start over from scratch with DejaVu Sans Mono, which is itself based on 
 Bitstream Vera Sans Mono.
 
-![Ipsum lorem](doc/monotional-ipsumlorem-s.png)
+![Ipsum lorem](doc/monotional-ipsumlorem.png)
 
 ### History
 
@@ -23,7 +23,7 @@ v1.0
  * First release! Based on DejaVu Sans Mono 2.37.
  * The main differences are with the following characters: ` 1 i - _ = ' " ^ # * % @ ~ `
 
-![Version 1.0 glyphs](doc/monotional-glyphs-s.png)
+![Version 1.0 glyphs](doc/monotional-glyphs.png)
 
 ### Copyright and Trademark Information
 
