@@ -2,7 +2,8 @@
 
 ### Version 1.0
 
-Monotional is a humanist, monospace font based on DejaVu Sans Mono and 
+Monotional is a humanist, monospace font based on 
+[DejaVu Sans Mono]](https://github.com/dejavu-fonts/dejavu-fonts) and 
 inspired by André Berg's [Meslo](https://github.com/andreberg/Meslo-Font).
 
 I began maintaining a 
