@@ -29,7 +29,9 @@ registered trademarks of their respective owners.
 ### Thanks
 
 To Jim Lyles and Bitstream for the Bitstream Vera family of fonts.
+
 To André Berg for Meslo and inspiring some of the changes in Monotional.
+
 To George Williams for the free font editing program 
 [FontForge](http://fontforge.org).
 
