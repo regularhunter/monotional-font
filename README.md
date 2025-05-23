@@ -20,6 +20,8 @@ v1.0
 
 ### Copyright and Trademark Information
 
+Monotional © 2025 Hunter Wardlaw
+
 Bitstream Vera is a trademark of Bitstream, Inc., designed by Jim Lyles. 
 DejaVu changes are in public domain.
 
