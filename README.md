@@ -8,9 +8,9 @@ Monotional is a humanist, monospace font based on
 [DejaVu Sans Mono](https://github.com/dejavu-fonts/dejavu-fonts) and 
 inspired by André Berg's [Meslo](https://github.com/andreberg/Meslo-Font).
 
-I began maintaining a 
+This began while I was maintaining a 
 [downstream fork of Meslo](https://github.com/regularhunter/Meslo-Font/) 
-in order to fix some issues with it until I realized it would be easier to 
+in order to fix some issues with it until I realized that it would be easier to 
 start over from scratch with DejaVu Sans Mono, which is itself based on 
 Bitstream Vera Sans Mono.
 
