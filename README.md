@@ -25,6 +25,9 @@ v1.0
 
 ![Version 1.0 glyphs](doc/monotional-glyphs.png)
 
+See the [release](https://github.com/regularhunter/monotional-font/releases/tag/1.0) 
+for more information.
+
 ### Copyright and Trademark Information
 
 Monotional © 2025 Hunter Wardlaw
