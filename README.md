@@ -2,7 +2,7 @@
 
 # Monotional
 
-### Version 1.0
+### Version 1.1
 
 Monotional is a humanist, monospace font based on 
 [DejaVu Sans Mono](https://github.com/dejavu-fonts/dejavu-fonts) and 
