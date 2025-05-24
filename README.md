@@ -38,11 +38,11 @@ for more information.
 
 ### Copyright and Trademark Information
 
-Monotional
+**Monotional**
 
 Copyright © 2025 Hunter Wardlaw
 
-Bitstream Vera Sans Mono / DejaVu Sans Mono
+**Bitstream Vera Sans Mono / DejaVu Sans Mono**
 
 Copyright © 2003 Bitstream Vera is a trademark of Bitstream, Inc., designed by Jim Lyles.
 DejaVu changes are in public domain.
