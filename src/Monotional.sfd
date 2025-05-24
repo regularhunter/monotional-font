@@ -4,25 +4,25 @@ FullName: Monotional
 FamilyName: Monotional
 Weight: Book
 Copyright: Copyright (c) 2025 Hunter Wardlaw\nCopyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\n
-Version: 1.0
+Version: 1.1
 ItalicAngle: 0
 UnderlinePosition: -175
 UnderlineWidth: 90
 Ascent: 1556
 Descent: 492
 InvalidEm: 0
-sfntRevision: 0x00010000
+sfntRevision: 0x0001199a
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
 XUID: [1021 439 120141097 12240854]
 StyleMap: 0x0040
 FSType: 0
-OS2Version: 1
+OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1748024493
+ModificationTime: 1748058019
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2319,7 +2319,7 @@ ShortTable: maxp 16
   5
   4
 EndShort
-LangName: 1033 "" "" "" "Monotional Book 1.0" "" "1.0" "" "" "DejaVu fonts team" "" "" "http://dejavu.sourceforge.net" "" "Fonts are (c) Bitstream (see below). DejaVu changes are in public domain.+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or  or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word +ACIA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the +ACIA-Bitstream Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org. +AAoA" "http://dejavu.sourceforge.net/wiki/index.php/License"
+LangName: 1033 "" "" "" "Monotional Book 1.1" "" "1.1" "" "" "DejaVu fonts team" "" "" "http://dejavu.sourceforge.net" "" "Fonts are (c) Bitstream (see below). DejaVu changes are in public domain.+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or  or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word +ACIA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the +ACIA-Bitstream Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org. +AAoA" "http://dejavu.sourceforge.net/wiki/index.php/License"
 GaspTable: 2 8 2 65535 3 0
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -2327,7 +2327,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 20 11
+WinInfo: 60 20 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mkmk' Mark to Mark in Arabic lookup 0 subtable" "Anchor-1" "'mkmk' Mark to Mark in Arabic lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning in Arabic lookup 2 subtable" "Anchor-3" "'mark' Mark Positioning in Arabic lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Arabic lookup 4 subtable" "Anchor-5" "'mark' Mark Positioning in Arabic lookup 5 subtable" "Anchor-6" "'mark' Mark Positioning lookup 6 anchor 0" "Anchor-7" "'mark' Mark Positioning lookup 6 anchor 1" "Anchor-8" "'mark' Mark Positioning lookup 6 anchor 1" "Anchor-9" "'mark' Mark Positioning in Lao lookup 8 subtable" "Anchor-10" "'mark' Mark Positioning in Lao lookup 8 subtable"
@@ -5026,7 +5026,7 @@ StartChar: equal
 Encoding: 61 61 32
 Width: 1233
 GlyphClass: 2
-Flags: WO
+Flags: W
 TtInstrs:
 NPUSHB
  12
@@ -5070,6 +5070,7 @@ SplineSet
  88 802 l 1,7,-1
  88 972 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: greater
@@ -5341,6 +5342,7 @@ SplineSet
  1178 1129 1178 1129 1178 905 c 2,55,-1
  1178 135 l 1,12,-1
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: A
@@ -8544,11 +8546,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-477 1638 m 1,0,-1
- 758 1262 l 1,1,-1
- 604 1262 l 1,2,-1
- 279 1638 l 1,3,-1
- 477 1638 l 1,0,-1
+481 1638 m 1,0,-1
+ 764 1262 l 5,1,-1
+ 561 1262 l 1,2,-1
+ 199 1638 l 1,3,-1
+ 481 1638 l 1,0,-1
 EndSplineSet
 Validated: 1
 EndChar
@@ -57867,7 +57869,7 @@ LayerCount: 2
 Fore
 Refer: 767 945 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F03
@@ -57879,7 +57881,7 @@ LayerCount: 2
 Fore
 Refer: 767 945 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F04
@@ -57963,7 +57965,7 @@ LayerCount: 2
 Fore
 Refer: 736 913 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 -650 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F0B
@@ -57975,7 +57977,7 @@ LayerCount: 2
 Fore
 Refer: 736 913 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 -650 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F0C
@@ -58059,7 +58061,7 @@ LayerCount: 2
 Fore
 Refer: 771 949 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F13
@@ -58071,7 +58073,7 @@ LayerCount: 2
 Fore
 Refer: 771 949 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F14
@@ -58131,7 +58133,7 @@ LayerCount: 2
 Fore
 Refer: 740 917 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 -875 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F1B
@@ -58143,7 +58145,7 @@ LayerCount: 2
 Fore
 Refer: 740 917 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 -875 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F1C
@@ -58203,7 +58205,7 @@ LayerCount: 2
 Fore
 Refer: 773 951 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F23
@@ -58215,7 +58217,7 @@ LayerCount: 2
 Fore
 Refer: 773 951 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F24
@@ -58299,7 +58301,7 @@ LayerCount: 2
 Fore
 Refer: 742 919 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 -950 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F2B
@@ -58311,7 +58313,7 @@ LayerCount: 2
 Fore
 Refer: 742 919 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 -950 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F2C
@@ -58395,7 +58397,7 @@ LayerCount: 2
 Fore
 Refer: 775 953 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F33
@@ -58407,7 +58409,7 @@ LayerCount: 2
 Fore
 Refer: 775 953 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F34
@@ -58491,7 +58493,7 @@ LayerCount: 2
 Fore
 Refer: 744 921 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 -850 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F3B
@@ -58503,7 +58505,7 @@ LayerCount: 2
 Fore
 Refer: 744 921 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 -850 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F3C
@@ -58587,7 +58589,7 @@ LayerCount: 2
 Fore
 Refer: 781 959 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F43
@@ -58599,7 +58601,7 @@ LayerCount: 2
 Fore
 Refer: 781 959 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F44
@@ -58659,7 +58661,7 @@ LayerCount: 2
 Fore
 Refer: 750 927 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 -875 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F4B
@@ -58671,7 +58673,7 @@ LayerCount: 2
 Fore
 Refer: 750 927 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 -875 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F4C
@@ -58731,7 +58733,7 @@ LayerCount: 2
 Fore
 Refer: 787 965 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F53
@@ -58743,7 +58745,7 @@ LayerCount: 2
 Fore
 Refer: 787 965 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F54
@@ -58815,7 +58817,7 @@ LayerCount: 2
 Fore
 Refer: 755 933 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 -950 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F5D
@@ -58875,7 +58877,7 @@ LayerCount: 2
 Fore
 Refer: 791 969 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F63
@@ -58887,7 +58889,7 @@ LayerCount: 2
 Fore
 Refer: 791 969 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F64
@@ -58971,7 +58973,7 @@ LayerCount: 2
 Fore
 Refer: 759 937 N 1 0 0 1 0 0 2
 Refer: 1764 8141 N 1 0 0 1 -875 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F6B
@@ -58983,7 +58985,7 @@ LayerCount: 2
 Fore
 Refer: 759 937 N 1 0 0 1 0 0 2
 Refer: 1777 8157 N 1 0 0 1 -875 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F6C
@@ -59228,7 +59230,7 @@ LayerCount: 2
 Fore
 Refer: 1577 7938 N 1 0 0 1 0 0 2
 Refer: 719 890 N 1 0 0 1 -100 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F83
@@ -59240,7 +59242,7 @@ LayerCount: 2
 Fore
 Refer: 1578 7939 N 1 0 0 1 0 0 2
 Refer: 719 890 N 1 0 0 1 -100 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F84
@@ -59324,7 +59326,7 @@ LayerCount: 2
 Fore
 Refer: 1585 7946 N 1 0 0 1 0 0 2
 Refer: 1750 8126 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F8B
@@ -59336,7 +59338,7 @@ LayerCount: 2
 Fore
 Refer: 1586 7947 N 1 0 0 1 0 0 2
 Refer: 1750 8126 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F8C
@@ -59420,7 +59422,7 @@ LayerCount: 2
 Fore
 Refer: 1605 7970 N 1 0 0 1 0 0 2
 Refer: 719 890 N 1 0 0 1 -312 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F93
@@ -59432,7 +59434,7 @@ LayerCount: 2
 Fore
 Refer: 1606 7971 N 1 0 0 1 0 0 2
 Refer: 719 890 N 1 0 0 1 -312 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F94
@@ -59516,7 +59518,7 @@ LayerCount: 2
 Fore
 Refer: 1613 7978 N 1 0 0 1 0 0 2
 Refer: 1750 8126 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F9B
@@ -59528,7 +59530,7 @@ LayerCount: 2
 Fore
 Refer: 1614 7979 N 1 0 0 1 0 0 2
 Refer: 1750 8126 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1F9C
@@ -59612,7 +59614,7 @@ LayerCount: 2
 Fore
 Refer: 1661 8034 N 1 0 0 1 0 0 2
 Refer: 719 890 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1FA3
@@ -59624,7 +59626,7 @@ LayerCount: 2
 Fore
 Refer: 1662 8035 N 1 0 0 1 0 0 2
 Refer: 719 890 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1FA4
@@ -59708,7 +59710,7 @@ LayerCount: 2
 Fore
 Refer: 1669 8042 N 1 0 0 1 0 0 2
 Refer: 1750 8126 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1FAB
@@ -59720,7 +59722,7 @@ LayerCount: 2
 Fore
 Refer: 1670 8043 N 1 0 0 1 0 0 2
 Refer: 1750 8126 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1FAC
@@ -60106,7 +60108,7 @@ LayerCount: 2
 Fore
 Refer: 1751 8127 N 1 0 0 1 -250 0 2
 Refer: 1795 8175 N 1 0 0 1 250 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1FCE
@@ -60260,7 +60262,7 @@ LayerCount: 2
 Fore
 Refer: 1807 8190 N 1 0 0 1 -250 0 2
 Refer: 1795 8175 N 1 0 0 1 250 0 2
-Validated: 1
+Validated: 5
 EndChar
 
 StartChar: uni1FDE
@@ -71386,6 +71388,7 @@ LayerCount: 2
 Fore
 Refer: 32 61 N 1 0 0 1 0 0 2
 Refer: 2230 8901 N 1 0 0 1 2 441 2
+Validated: 1
 EndChar
 
 StartChar: uni2251
@@ -71399,6 +71402,7 @@ Refer: 32 61 N 1 0 0 1 0 0 2
 Refer: 2230 8901 N 1 0 0 1 2 441 2
 Refer: 2230 8901 N 1 0 0 1 2 441 2
 Refer: 2230 8901 N 1 0 0 1 1 -582 2
+Validated: 5
 EndChar
 
 StartChar: uni2252
@@ -71411,6 +71415,7 @@ Fore
 Refer: 2230 8901 N 1 0 0 1 404 -579 2
 Refer: 32 61 N 1 0 0 1 0 0 2
 Refer: 2230 8901 N 1 0 0 1 -401 441 2
+Validated: 1
 EndChar
 
 StartChar: uni2253
@@ -71423,6 +71428,7 @@ Fore
 Refer: 2230 8901 N 1 0 0 1 404 441 2
 Refer: 32 61 N 1 0 0 1 0 0 2
 Refer: 2230 8901 N 1 0 0 1 -402 -579 2
+Validated: 1
 EndChar
 
 StartChar: uni2254

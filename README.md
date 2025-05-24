@@ -16,17 +16,25 @@ Bitstream Vera Sans Mono.
 
 ![Ipsum lorem](doc/monotional-ipsumlorem.png)
 
-### History
+*Figure 1: Monotional lorem ipsum*
 
-v1.0
+![Version 1.1 glyphs](doc/monotional-glyphs.png)
+
+*Figure 2: Monotional glyph chart*
+
+### Changelog
+
+See the [latest release](https://github.com/regularhunter/monotional-font/releases) 
+for more information.
+
+**v1.1**
+
+ * Widen \` glyph for all fonts
+
+**v1.0**
 
  * First release! Based on DejaVu Sans Mono 2.37.
  * The main differences are with the following characters: ` 1 i - _ = ' " ^ # * % @ ~ `
-
-![Version 1.0 glyphs](doc/monotional-glyphs.png)
-
-See the [release](https://github.com/regularhunter/monotional-font/releases/tag/1.0) 
-for more information.
 
 ### Copyright and Trademark Information
 
