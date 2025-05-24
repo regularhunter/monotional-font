@@ -44,10 +44,10 @@ Monotional
 
 Bitstream Vera Sans Mono / DejaVu Sans Mono
 
-Copyright (c) Bitstream Vera is a trademark of Bitstream, Inc., designed by Jim Lyles.
+Copyright (c) 2003 Bitstream Vera is a trademark of Bitstream, Inc., designed by Jim Lyles.
 DejaVu changes are in public domain.
 
-Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.
+Copyright (c) 2006 Tavmjong Bah. All Rights Reserved.
 
 All other brands and product names not specifically listed are trademarks or
 registered trademarks of their respective owners.
