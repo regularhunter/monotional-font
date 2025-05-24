@@ -16,6 +16,8 @@ Bitstream Vera Sans Mono.
 
 ![Ipsum lorem](doc/monotional-ipsumlorem.png)
 
+![Version 1.1 glyphs](doc/monotional-glyphs.png)
+
 ### History
 
 v1.1
@@ -24,8 +26,6 @@ v1.1
 
 See the [release](https://github.com/regularhunter/monotional-font/releases/tag/1.1) 
 for more information.
-
-![Version 1.1 glyphs](doc/monotional-glyphs.png)
 
 v1.0
 
