@@ -30,7 +30,7 @@ for more information.
 v1.0
 
  * First release! Based on DejaVu Sans Mono 2.37.
- * The main differences are with the following characters: 1 i - _ = ' " ^ # * % @ ~
+ * The main differences are with the following characters: ` 1 i - _ = ' " ^ # * % @ ~ `
 
 ### Copyright and Trademark Information
 
