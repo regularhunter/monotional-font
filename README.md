@@ -18,7 +18,7 @@ Bitstream Vera Sans Mono.
 
 ![Version 1.1 glyphs](doc/monotional-glyphs.png)
 
-### History
+### Changelog
 
 v1.1
 
