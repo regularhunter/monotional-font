@@ -22,7 +22,7 @@ v1.1
 
  * Widen \` glyph for all fonts
 
-[Version 1.1 glyphs](doc/monotional-glyphs.png)
+![Version 1.1 glyphs](doc/monotional-glyphs.png)
 
 See the [release](https://github.com/regularhunter/monotional-font/releases/tag/1.1) 
 for more information.
