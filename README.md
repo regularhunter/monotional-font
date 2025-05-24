@@ -20,14 +20,14 @@ Bitstream Vera Sans Mono.
 
 ### Changelog
 
-v1.1
+See the [latest release](https://github.com/regularhunter/monotional-font/releases) 
+for more information.
+
+**v1.1**
 
  * Widen \` glyph for all fonts
 
-See the [release](https://github.com/regularhunter/monotional-font/releases/tag/1.1) 
-for more information.
-
-v1.0
+**v1.0**
 
  * First release! Based on DejaVu Sans Mono 2.37.
  * The main differences are with the following characters: ` 1 i - _ = ' " ^ # * % @ ~ `
