@@ -16,7 +16,11 @@ Bitstream Vera Sans Mono.
 
 ![Ipsum lorem](doc/monotional-ipsumlorem.png)
 
+*Figure 1: Monotional lorem ipsum*
+
 ![Version 1.1 glyphs](doc/monotional-glyphs.png)
+
+*Figure 2: Monotional glyph chart*
 
 ### Changelog
 
