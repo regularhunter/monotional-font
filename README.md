@@ -38,12 +38,18 @@ for more information.
 
 ### Copyright and Trademark Information
 
-Monotional © 2025 Hunter Wardlaw
+Monotional
 
-Bitstream Vera is a trademark of Bitstream, Inc., designed by Jim Lyles. 
+© 2025 Hunter Wardlaw
+
+Bitstream Vera Sans Mono / DejaVu Sans Mono
+
+Copyright (c) Bitstream Vera is a trademark of Bitstream, Inc., designed by Jim Lyles.
 DejaVu changes are in public domain.
 
-All other brands and product names not specifically listed are trademarks or 
+Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.
+
+All other brands and product names not specifically listed are trademarks or
 registered trademarks of their respective owners.
 
 ### Thanks
