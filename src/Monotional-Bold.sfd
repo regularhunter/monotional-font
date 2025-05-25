@@ -1715,7 +1715,7 @@ NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60 20 10
+WinInfo: 20 20 10
 BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
