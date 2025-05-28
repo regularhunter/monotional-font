@@ -32,7 +32,8 @@ for more information.
 
  * Re-implement Monotional on top of DejaVu Sans Mono from scratch to 
 fix display bug in MS Word. ` ~ @ ` glyphs still need to be re-implemented
- * Revert \` glyph width from v1.1
+ * Revert \` glyph width from v1.1 so that legibility is preserved for accented 
+characters
 
 **v1.1**
 
