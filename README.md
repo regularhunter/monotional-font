@@ -15,9 +15,11 @@ start over from scratch with DejaVu Sans Mono, which is itself based on
 Bitstream Vera Sans Mono.
 
 ![Ipsum lorem](doc/monotional-ipsumlorem.png)
+
 *Figure 1: Monotional lorem ipsum*
 
 ![Glyphs](doc/monotional-glyphs.png)
+
 *Figure 2: Monotional glyph chart*
 
 ### Changelog
