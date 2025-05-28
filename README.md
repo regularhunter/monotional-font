@@ -2,8 +2,6 @@
 
 # Monotional
 
-### Version 1.1
-
 Monotional is a humanist, monospace font based on 
 [DejaVu Sans Mono](https://github.com/dejavu-fonts/dejavu-fonts) and 
 inspired by André Berg's [Meslo](https://github.com/andreberg/Meslo-Font).
@@ -15,17 +13,22 @@ start over from scratch with DejaVu Sans Mono, which is itself based on
 Bitstream Vera Sans Mono.
 
 ![Ipsum lorem](doc/monotional-ipsumlorem.png)
-
 *Figure 1: Monotional lorem ipsum*
 
-![Version 1.1 glyphs](doc/monotional-glyphs.png)
-
+![Glyphs](doc/monotional-glyphs.png)
 *Figure 2: Monotional glyph chart*
 
 ### Changelog
 
 See the [latest release](https://github.com/regularhunter/monotional-font/releases) 
 for more information.
+
+
+**v1.2**
+
+ * Re-implement Monotional on top of DejaVu Sans Mono from scratch to 
+fix display bug in MS Word. ` ~ @ ` glyphs still need to be re-implemented
+ * Revert \` glyph width from v1.1
 
 **v1.1**
 
