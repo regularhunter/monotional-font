@@ -4,6 +4,8 @@
 
 ### Version 1.2
 
+https://github.com/regularhunter/monotional-font
+
 Monotional is a humanist, monospace font based on 
 [DejaVu Sans Mono](https://github.com/dejavu-fonts/dejavu-fonts) and 
 inspired by André Berg's [Meslo](https://github.com/andreberg/Meslo-Font).
