@@ -4,7 +4,7 @@ FullName: Monotional
 FamilyName: Monotional
 Weight: Book
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\n
-Version: 1.3
+Version: 1.4
 ItalicAngle: 0
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749071786
+ModificationTime: 1749074653
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2304,7 +2304,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Monotional" "" "Version 1.3" "" "" "DejaVu fonts team" "" "" "http://dejavu.sourceforge.net" "" "Fonts are (c) Bitstream (see below). DejaVu changes are in public domain.+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or  or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word +ACIA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the +ACIA-Bitstream Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org. +AAoA" "http://dejavu.sourceforge.net/wiki/index.php/License"
+LangName: 1033 "" "" "" "Monotional" "" "Version 1.4" "" "" "DejaVu fonts team" "" "" "http://dejavu.sourceforge.net" "" "Fonts are (c) Bitstream (see below). DejaVu changes are in public domain.+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or  or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word +ACIA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the +ACIA-Bitstream Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org. +AAoA" "http://dejavu.sourceforge.net/wiki/index.php/License"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
@@ -2873,7 +2873,7 @@ EndChar
 StartChar: percent
 Encoding: 37 37 6
 Width: 1233
-Flags: WO
+Flags: W
 TtInstrs:
 NPUSHB
  47
@@ -5460,10 +5460,10 @@ SplineSet
  176 870 176 870 176 543 c 0,33,34
  176 214 176 214 341 19 c 128,-1,35
  506 -176 506 -176 780 -176 c 0,36,37
- 834 -176 834 -176 888 -166 c 128,-1,38
- 942 -156 942 -156 999 -135 c 1,39,-1
- 1047 -270 l 1,40,41
- 984 -295 984 -295 922.5 -307 c 128,-1,42
+ 834 -176 834 -176 924.5 -166 c 128,-1,38
+ 1015 -156 1015 -156 1072 -135 c 5,39,-1
+ 1120 -270 l 5,40,41
+ 1057 -295 1057 -295 959 -307 c 128,-1,42
  861 -319 861 -319 803 -319 c 0,43,44
  446 -319 446 -319 236.5 -86 c 128,-1,45
  27 147 27 147 27 543 c 0,46,47
