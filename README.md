@@ -2,7 +2,7 @@
 
 # Monotional
 
-### Version 1.2
+### Version 1.3
 
 https://github.com/regularhunter/monotional-font
 
@@ -32,8 +32,12 @@ for more information.
 
 **v1.2**
 
+ * Small adjustment to ` % ` glyph
+
+**v1.2**
+
  * Re-implement Monotional on top of DejaVu Sans Mono from scratch to 
-fix display bug in MS Word. ` ~ @ ` glyphs still need to be re-implemented
+fix display bug in MS Word. ` ~ @ ` glyphs not re-implemented
  * Revert \` glyph width from v1.1 so that legibility is preserved for accented 
 characters
 

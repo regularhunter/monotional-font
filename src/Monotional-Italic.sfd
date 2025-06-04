@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749067713
+ModificationTime: 1749072030
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1698,7 +1698,7 @@ NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 20 20 10
+WinInfo: 0 20 10
 BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
@@ -2333,7 +2333,7 @@ EndChar
 StartChar: percent
 Encoding: 37 37 6
 Width: 1233
-Flags: W
+Flags: WO
 TtInstrs:
 NPUSHB
  47
@@ -2445,11 +2445,11 @@ SplineSet
  1014 0 1014 0 879 0 c 0,24,25
  743 0 743 0 652 91.5 c 128,-1,26
  561 183 561 183 561 319 c 0,12,13
-151 133 m 1,27,-1
- 46 238 l 1,28,-1
- 1085.99804688 1286 l 1,29,-1
- 1198 1183 l 1,30,-1
- 151 133 l 1,27,-1
+144 140 m 1,27,-1
+ 53 232 l 1,28,-1
+ 1091 1280 l 1,29,-1
+ 1191 1190 l 1,30,-1
+ 144 140 l 1,27,-1
 168 1112 m 0,31,32
  168 1033 168 1033 220.5 980.5 c 128,-1,33
  273 928 273 928 352 928 c 0,34,35
