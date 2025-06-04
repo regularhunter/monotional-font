@@ -30,7 +30,7 @@ See the [latest release](https://github.com/regularhunter/monotional-font/releas
 for more information.
 
 
-**v1.2**
+**v1.3**
 
  * Small adjustment to ` % ` glyph
 
