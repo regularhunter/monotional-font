@@ -3,7 +3,7 @@ FontName: Monotional-BoldItalic
 FullName: Monotional Bold Italic
 FamilyName: Monotional
 Weight: Bold
-Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\n
+Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain
 Version: 1.7
 ItalicAngle: -11
 UnderlinePosition: -85
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749237451
+ModificationTime: 1749239208
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1273,14 +1273,14 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Bold Italic" "Monotional Bold Italic" "" "Version 1.7" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "Fonts are (c) Bitstream (see below). DejaVu changes are in public domain.+AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or  or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word +ACIA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the +ACIA-Bitstream Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org. +AAoA" "http://www.apache.org/licenses/LICENSE-2.0"
+LangName: 1033 "" "" "Bold Italic" "Monotional Bold Italic" "" "Version 1.7" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL OPEN FONT LICENSE Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 51 19
+WinInfo: 51 51 19
 BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
@@ -4101,25 +4101,26 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1145 811 m 1,0,-1
- 1145 578 l 1,1,2
- 1070 518 1070 518 998.5 490.5 c 128,-1,3
- 927 463 927 463 848 463 c 0,4,5
- 758 463 758 463 645 514 c 0,6,7
- 623 524 623 524 612 528 c 0,8,9
- 535 562 535 562 483.5 574 c 128,-1,10
- 432 586 432 586 381 586 c 0,11,12
- 303 586 303 586 232.5 557 c 128,-1,13
- 162 528 162 528 88 465 c 1,14,-1
- 88 694 l 1,15,16
- 166 755 166 755 239 782 c 128,-1,17
- 312 809 312 809 395 809 c 0,18,19
- 448 809 448 809 498 798 c 128,-1,20
- 548 787 548 787 622 756 c 0,21,22
- 633 751 633 751 655 741 c 0,23,24
- 771 686 771 686 864 686 c 0,25,26
- 934 686 934 686 1003 716.5 c 128,-1,27
- 1072 747 1072 747 1145 811 c 1,0,-1
+416.1796875 866.584960938 m 4,0,1
+ 492.399414062 866.584960938 492.399414062 866.584960938 548.53515625 835.684570312 c 132,-1,2
+ 604.668945312 804.78515625 604.668945312 804.78515625 649.474609375 763.584960938 c 132,-1,3
+ 694.280273438 722.383789062 694.280273438 722.383789062 735.995117188 691.485351562 c 132,-1,4
+ 777.709960938 660.584960938 777.709960938 660.584960938 824.059570312 660.584960938 c 4,5,6
+ 882.76953125 660.584960938 882.76953125 660.584960938 924.485351562 702.299804688 c 132,-1,7
+ 966.19921875 744.013671875 966.19921875 744.013671875 1007.40039062 822.294921875 c 5,8,-1
+ 1189.70996094 739.89453125 l 5,9,10
+ 1123.78515625 596.723632812 1123.78515625 596.723632812 1038.81542969 505.5703125 c 132,-1,11
+ 953.83984375 414.415039062 953.83984375 414.415039062 815.8203125 414.415039062 c 4,12,13
+ 741.66015625 414.415039062 741.66015625 414.415039062 685.525390625 445.315429688 c 132,-1,14
+ 629.390625 476.21484375 629.390625 476.21484375 584.0703125 517.415039062 c 132,-1,15
+ 538.750976562 558.616210938 538.750976562 558.616210938 496.51953125 589.514648438 c 132,-1,16
+ 454.291015625 620.415039062 454.291015625 620.415039062 407.940429688 620.415039062 c 4,17,18
+ 348.19921875 620.415039062 348.19921875 620.415039062 306.485351562 577.155273438 c 132,-1,19
+ 264.76953125 533.89453125 264.76953125 533.89453125 224.599609375 459.735351562 c 5,20,-1
+ 42.2900390625 541.10546875 l 5,21,22
+ 84.51953125 627.625 84.51953125 627.625 136.01953125 701.78515625 c 132,-1,23
+ 187.518554688 775.9453125 187.518554688 775.9453125 255.5 821.264648438 c 132,-1,24
+ 323.48046875 866.583984375 323.48046875 866.583984375 416.1796875 866.584960938 c 4,0,1
 EndSplineSet
 EndChar
 
