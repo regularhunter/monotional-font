@@ -34,6 +34,7 @@ for more information.
 
  * Remove font instructions inherited from DejaVu Sans Mono causing 
 rendering issues in Windows (issue #1)
+ * Small adjustment to italic ` @ ` glyph
 
 **v1.6**
 
