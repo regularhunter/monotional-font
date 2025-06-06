@@ -31,6 +31,7 @@ for more information.
 
 
 **v1.8**
+
  * Increase regular and italic ` ~ ` glyph weight
 
 **v1.7**
