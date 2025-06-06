@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749239533
+ModificationTime: 1749241306
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1280,7 +1280,7 @@ NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 51 51 19
+WinInfo: 0 51 19
 BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
@@ -1479,7 +1479,7 @@ EndChar
 StartChar: numbersign
 Encoding: 35 35 4
 Width: 1233
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
@@ -1494,12 +1494,12 @@ SplineSet
  852 1520 l 1,7,-1
  1073 1520 l 1,8,-1
  1014 1146 l 1,9,-1
- 1268 1146 l 1,10,-1
- 1214 931 l 1,11,-1
+ 1229 1146 l 1,10,-1
+ 1175 931 l 1,11,-1
  983 931 l 1,12,-1
  925 538 l 1,13,-1
- 1141 538 l 1,14,-1
- 1087 323 l 1,15,-1
+ 1132 538 l 1,14,-1
+ 1078 323 l 1,15,-1
  892 323 l 1,16,-1
  834 -50 l 1,17,-1
  612 -50 l 1,18,-1
@@ -1508,12 +1508,12 @@ SplineSet
  408 -50 l 1,21,-1
  186 -50 l 1,22,-1
  245 323 l 1,23,-1
- -41 323 l 1,24,-1
- 12 538 l 1,25,-1
+ 20 323 l 1,24,-1
+ 73 538 l 1,25,-1
  278 538 l 1,26,-1
  336 931 l 1,27,-1
- 86 931 l 1,28,-1
- 139 1146 l 1,29,-1
+ 117 931 l 1,28,-1
+ 170 1146 l 1,29,-1
  367 1146 l 1,30,-1
  426 1520 l 1,31,-1
  647 1520 l 1,4,-1
