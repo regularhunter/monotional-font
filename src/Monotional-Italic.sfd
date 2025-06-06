@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749250359
+ModificationTime: 1749251434
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2231,17 +2231,16 @@ EndChar
 StartChar: hyphen
 Encoding: 45 45 14
 Width: 1233
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-135.971679688 724 m 5,0,-1
- 1095.97167969 724 l 1,1,-1
- 1062 555 l 1,2,-1
- 102 555 l 5,3,-1
- 135.971679688 724 l 5,0,-1
+119.971679688 724 m 5,0,-1
+ 1046 724 l 1,1,-1
+ 1012.02832031 555 l 1,2,-1
+ 86 555 l 5,3,-1
+ 119.971679688 724 l 5,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: period
