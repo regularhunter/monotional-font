@@ -104,8 +104,9 @@ To George Williams for the free font editing program
 
 ### License
 
-Licensed under the SIL Open Font License Version 1.1;
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+Licensed under the SIL Open Font License Version 1.1
+
+You may not use this file except in compliance with the License. 
+You may obtain a copy of the License at:
 
 https://openfontlicense.org/documents/OFL.txt
