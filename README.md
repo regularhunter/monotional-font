@@ -79,6 +79,10 @@ characters
 
 Copyright © 2025 Hunter Wardlaw
 
+**Fira Code**
+
+Copyright © 2014 The Fira Code Project Authors.
+
 **Bitstream Vera Sans Mono / DejaVu Sans Mono**
 
 Copyright © 2003 Bitstream Vera is a trademark of Bitstream, Inc., designed by Jim Lyles.
