@@ -32,11 +32,13 @@ for more information.
 
 **v1.7**
 
+ * Change license to SIL OFL 1.1
  * Remove font instructions inherited from DejaVu Sans Mono causing 
 rendering issues in Windows (issue #1)
  * Small adjustment to italic ` @ ` glyph
  * Rework italic and bold-italic ` # ` glyphs to match non-italic 
 versions
+ * Change ` ~ ` glyph style to emulate Fira Code
 
 **v1.6**
 
