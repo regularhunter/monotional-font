@@ -2,7 +2,7 @@
 
 # Monotional
 
-### Version 1.6
+### Version 1.7
 
 https://github.com/regularhunter/monotional-font
 
@@ -29,6 +29,11 @@ Bitstream Vera Sans Mono.
 See the [latest release](https://github.com/regularhunter/monotional-font/releases) 
 for more information.
 
+
+**v1.7**
+
+ * Remove font instructions inherited from DejaVu Sans Mono causing 
+rendering issues in Windows (issue #1)
 
 **v1.6**
 
