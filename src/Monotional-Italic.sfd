@@ -4,7 +4,7 @@ FullName: Monotional Italic
 FamilyName: Monotional
 Weight: Book
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 1.8
+Version: 1.9
 ItalicAngle: -11
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749252506
+ModificationTime: 1749253135
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1691,14 +1691,14 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Monotional Italic" "" "Version 1.8" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "" "Monotional Italic" "" "Version 1.9" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 46 17
+WinInfo: 46 46 17
 BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
@@ -2324,7 +2324,7 @@ EndChar
 StartChar: one
 Encoding: 49 49 18
 Width: 1233
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
