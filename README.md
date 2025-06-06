@@ -2,7 +2,7 @@
 
 # Monotional
 
-### Version 1.8
+### Version 1.9
 
 https://github.com/regularhunter/monotional-font
 
@@ -29,6 +29,14 @@ Bitstream Vera Sans Mono.
 See the [latest release](https://github.com/regularhunter/monotional-font/releases) 
 for more information.
 
+
+**v1.9**
+
+ * Rework bold, italic, and bold-italic 1 glyph to match regular version
+ * Rework bold-italic # glyph to match bold version
+ * Slight adjustment to italic ' and * glyph
+ * Slight adjustment to bold and bold-italic - glyph
+ * Slight adjustment to italic and bold-italic 4 glyph
 
 **v1.8**
 
