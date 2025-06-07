@@ -32,11 +32,11 @@ for more information.
 
 **v1.9**
 
- * Rework bold, italic, and bold-italic 1 glyph to match regular version
- * Rework bold-italic # glyph to match bold version
- * Slight adjustment to italic ' and * glyph
- * Slight adjustment to bold and bold-italic - glyph
- * Slight adjustment to italic and bold-italic 4 glyph
+ * Rework bold, italic, and bold-italic ` 1 ` glyph to match regular version
+ * Rework bold-italic ` # ` glyph to match bold version
+ * Slight adjustment to italic ` ' ` and ` * ` glyph
+ * Slight adjustment to bold and bold-italic ` - ` glyph
+ * Slight adjustment to italic and bold-italic ` 4 ` glyph
 
 **v1.8**
 
