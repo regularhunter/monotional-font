@@ -4,7 +4,7 @@ FullName: Monotional Bold Italic
 FamilyName: Monotional
 Weight: Bold
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 1.9
+Version: 2.0
 ItalicAngle: -11
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749253163
+ModificationTime: 1749276221
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1273,14 +1273,14 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Bold Italic" "Monotional Bold Italic" "" "Version 1.9" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "Bold Italic" "Monotional Bold Italic" "" "Version 2.0" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 51 51 19
+WinInfo: 0 51 19
 BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
@@ -1991,10 +1991,10 @@ SplineSet
  939.66796875 563 l 1,5,-1
  1103.66796875 563 l 1,6,-1
  1057 322 l 1,7,-1
- 890 322 l 5,8,-1
- 831 0 l 1,9,-1
- 569 0 l 1,10,-1
- 629 322 l 5,11,-1
+ 892 322 l 1,8,-1
+ 832 0 l 1,9,-1
+ 570 0 l 1,10,-1
+ 631 322 l 1,11,-1
  18 322 l 1,12,-1
  76 608 l 1,13,-1
  811 1493 l 1,3,-1
