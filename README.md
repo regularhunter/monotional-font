@@ -2,7 +2,7 @@
 
 # Monotional
 
-### Version 2.0
+### Version 2.1
 
 https://github.com/regularhunter/monotional-font
 
@@ -29,7 +29,12 @@ Bitstream Vera Sans Mono.
 See the [latest release](https://github.com/regularhunter/monotional-font/releases) 
 for more information.
 
+**v2.1**
+
+ * Fix incorrect positioning of regular ` ^ ` glyph
+
 **v2.0**
+
  * Revise all dash glyphs for consistency
  * Add unique italic and bold-italic ` + ` glyphs
  * Add unique italic and bold-italic ` = ` glyphs

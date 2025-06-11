@@ -4,7 +4,7 @@ FullName: Monotional Bold
 FamilyName: Monotional
 Weight: Bold
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 2.0
+Version: 2.1
 ItalicAngle: 0
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749681999
+ModificationTime: 1749684241
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1708,7 +1708,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Monotional Bold" "" "Version 2.0" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "" "Monotional Bold" "" "Version 2.1" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
@@ -4631,7 +4631,7 @@ SplineSet
  187.518554688 775.9453125 187.518554688 775.9453125 255.5 821.264648438 c 132,-1,24
  323.48046875 866.583984375 323.48046875 866.583984375 416.1796875 866.584960938 c 4,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: nonbreakingspace
@@ -17164,7 +17164,7 @@ AnchorPoint: "above" 616 1120 mark 0
 LayerCount: 2
 Fore
 Refer: 1998 8254 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 Position2: "'mark' Mark Positioning lookup 8" dx=0 dy=0 dh=-1233 dv=0
 EndChar
 
@@ -18048,7 +18048,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1969 8215 N 1 0 0 1 0 0 2
-Validated: 65537
+Validated: 1
 EndChar
 
 StartChar: uni0334
@@ -18281,7 +18281,7 @@ LayerCount: 2
 Fore
 Refer: 1998 8254 N 1 0 0 1 0 0 2
 Refer: 1998 8254 N 1 0 0 1 0 -275 2
-Validated: 65537
+Validated: 1
 EndChar
 
 StartChar: uni0343
@@ -42691,7 +42691,7 @@ EndChar
 StartChar: uni2015
 Encoding: 8213 8213 1967
 Width: 1233
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
