@@ -31,8 +31,8 @@ for more information.
 
 **v2.0**
  * Revise all dash glyphs for consistency
- * Slight adjustment to italic and bold-italic 4 glyph
- * Slight adustment to bold and bold-italic ^ glyph
+ * Slight adjustment to italic and bold-italic ` 4 ` glyph
+ * Slight adustment to bold and bold-italic ` ^ ` glyph
 
 **v1.9**
 
