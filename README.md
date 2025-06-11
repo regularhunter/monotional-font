@@ -32,6 +32,7 @@ for more information.
 **v2.0**
  * Revise all dash glyphs for consistency
  * Add unique italic and bold-italic ` + ` glyphs
+ * Add unique italic and bold-italic ` = ` glyphs
  * Increase height of bold and bold-italic glyphs for ` ' ` and ` " `
  * Slight adjustment to bold and bold-italic ` ^ ` glyph
  * Slight adjustment to italic and bold-italic ` 4 ` glyph
