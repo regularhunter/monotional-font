@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749276157
+ModificationTime: 1749673491
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2235,11 +2235,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-119.971679688 724 m 5,0,-1
- 1046 724 l 1,1,-1
- 1012.02832031 555 l 1,2,-1
- 86 555 l 5,3,-1
- 119.971679688 724 l 5,0,-1
+205.971679688 724 m 1,0,-1
+ 1060 724 l 5,1,-1
+ 1026.02832031 555 l 5,2,-1
+ 172 555 l 1,3,-1
+ 205.971679688 724 l 1,0,-1
 EndSplineSet
 EndChar
 
@@ -5135,17 +5135,16 @@ EndChar
 StartChar: sfthyphen
 Encoding: 173 173 109
 Width: 1233
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-139.859375 668 m 1,0,-1
- 1135.859375 668 l 1,1,-1
- 1098 479 l 1,2,-1
- 102 479 l 1,3,-1
- 139.859375 668 l 1,0,-1
+206 724 m 1,0,-1
+ 1060 724 l 1,1,-1
+ 1026 555 l 1,2,-1
+ 172 555 l 1,3,-1
+ 206 724 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: registered
@@ -40218,13 +40217,12 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-336 643 m 1,0,-1
- 858 643 l 1,1,-1
- 825 479 l 1,2,-1
- 303 479 l 1,3,-1
- 336 643 l 1,0,-1
+206.000976562 724 m 1,0,-1
+ 1060 724 l 1,1,-1
+ 1025.99902344 555 l 1,2,-1
+ 172 555 l 1,3,-1
+ 206.000976562 724 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2011
@@ -40234,7 +40232,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1861 8208 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: figuredash
@@ -40244,13 +40241,12 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
--23 633 m 1,0,-1
- 1210 633 l 1,1,-1
- 1182 492 l 1,2,-1
- -51 492 l 1,3,-1
- -23 633 l 1,0,-1
+77 724 m 1,0,-1
+ 1195 724 l 1,1,-1
+ 1161 555 l 1,2,-1
+ 43 555 l 1,3,-1
+ 77 724 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: endash
@@ -40260,13 +40256,12 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
--23 633 m 1,0,-1
- 1210 633 l 1,1,-1
- 1182 492 l 1,2,-1
- -51 492 l 1,3,-1
- -23 633 l 1,0,-1
+120 724 m 1,0,-1
+ 1152 724 l 1,1,-1
+ 1118 555 l 1,2,-1
+ 86 555 l 1,3,-1
+ 120 724 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: emdash
@@ -40276,13 +40271,12 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
--23 633 m 1,0,-1
- 1210 633 l 1,1,-1
- 1182 492 l 1,2,-1
- -51 492 l 1,3,-1
- -23 633 l 1,0,-1
+34 724 m 1,0,-1
+ 1233 724 l 1,1,-1
+ 1199 555 l 1,2,-1
+ 0 555 l 1,3,-1
+ 34 724 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2015
@@ -40292,13 +40286,12 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
--23 633 m 1,0,-1
- 1210 633 l 1,1,-1
- 1182 492 l 1,2,-1
- -51 492 l 1,3,-1
- -23 633 l 1,0,-1
+34 724 m 1,0,-1
+ 1233 724 l 1,1,-1
+ 1199 555 l 1,2,-1
+ 0 555 l 1,3,-1
+ 34 724 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni2016
