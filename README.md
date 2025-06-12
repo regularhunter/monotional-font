@@ -2,7 +2,7 @@
 
 # Monotional
 
-### Version 2.1
+### Version 2.2
 
 https://github.com/regularhunter/monotional-font
 
@@ -29,6 +29,10 @@ Bitstream Vera Sans Mono.
 See the [latest release](https://github.com/regularhunter/monotional-font/releases) 
 for more information.
 
+**v2.2**
+
+ * Add unique italic and bold-italic glyph for ` ' ` and ` " `
+
 **v2.1**
 
  * Fix incorrect positioning of regular ` ^ ` glyph
@@ -36,9 +40,9 @@ for more information.
 **v2.0**
 
  * Revise all dash glyphs for consistency
- * Add unique italic and bold-italic ` + ` glyphs
- * Add unique italic and bold-italic ` = ` glyphs
- * Increase height of bold and bold-italic glyphs for ` ' ` and ` " `
+ * Add unique italic and bold-italic ` + ` glyph
+ * Add unique italic and bold-italic ` = ` glyph
+ * Increase height of bold and bold-italic glyph for ` ' ` and ` " `
  * Slight adjustment to bold and bold-italic ` ^ ` glyph
  * Slight adjustment to italic and bold-italic ` 4 ` glyph
 
@@ -60,7 +64,7 @@ for more information.
  * Remove font instructions inherited from DejaVu Sans Mono causing 
 rendering issues in Windows (issue #1)
  * Small adjustment to italic ` @ ` glyph
- * Rework italic and bold-italic ` # ` glyphs to match non-italic 
+ * Rework italic and bold-italic ` # ` glyph to match non-italic 
 versions
  * Change ` ~ ` glyph style to emulate Fira Code
 
@@ -84,7 +88,7 @@ versions
 **v1.2**
 
  * Re-implement Monotional on top of DejaVu Sans Mono from scratch to 
-fix display bug in MS Word. ` ~ @ ` glyphs not re-implemented
+fix display bug in MS Word. ` ~ @ ` glyph not re-implemented
  * Revert \` glyph width from v1.1 so that legibility is preserved for accented 
 characters
 
