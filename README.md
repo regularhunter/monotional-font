@@ -14,6 +14,8 @@ MonotionalSZ (slashed zero), and MonotionalAZ (ambiguous zero).
 
 ![Zero comparison](doc/monotional-zeroes.png)
 
+*Figure 1: Comparison between Monotional versions*
+
 This effort began while I was maintaining a 
 [downstream fork of Meslo](https://github.com/regularhunter/Meslo-Font/) 
 in order to fix some issues with it until I realized that it would be easier to 
@@ -22,11 +24,11 @@ Bitstream Vera Sans Mono.
 
 ![Ipsum lorem](doc/monotional-ipsumlorem.png)
 
-*Figure 1: Monotional lorem ipsum*
+*Figure 2: Monotional lorem ipsum*
 
 ![Glyphs](doc/monotional-glyphs.png)
 
-*Figure 2: Monotional glyph chart*
+*Figure 3: Monotional glyph chart*
 
 ### Changelog
 
