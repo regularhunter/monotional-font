@@ -90,7 +90,7 @@ versions
 **v1.6**
 
  * Remove fi and fl ligature
- * Fix swapped italic characters U+04CB/U+04CC <-> U+04F6/U+04F7
+ * Fix swapped italic characters ` U+04CB/U+04CC ` <->  ` U+04F6/U+04F7 `
 
 **v1.5**
 
