@@ -14,7 +14,7 @@ MonotionalSZ (slashed zero), and MonotionalAZ (ambiguous zero).
 
 ![Zero comparison](doc/monotional-zeroes.png)
 
-*Figure 1: Comparison between Monotional versions*
+*Figure 1: Comparison between versions*
 
 This effort began while I was maintaining a 
 [downstream fork of Meslo](https://github.com/regularhunter/Meslo-Font/) 
