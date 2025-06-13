@@ -4,7 +4,7 @@ FullName: MonotionalAZ Italic
 FamilyName: MonotionalAZ
 Weight: Book
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 2.4
+Version: 2.5
 ItalicAngle: -11
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749743045
+ModificationTime: 1749837917
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1691,14 +1691,14 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "MonotionalAZ Italic" "" "Version 2.4" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "" "MonotionalAZ Italic" "" "Version 2.5" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 46 46 17
+WinInfo: 0 46 17
 BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
@@ -2318,15 +2318,16 @@ EndChar
 StartChar: one
 Encoding: 49 49 18
 Width: 1233
+InSpiro: 1
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
 156 170 m 1,0,-1
  469 170 l 1,1,-1
- 690 1311 l 1,2,-1
- 362 1126 l 5,3,-1
- 397 1310 l 5,4,-1
+ 680 1254 l 1,2,-1
+ 412 1050 l 1,3,-1
+ 334 1202 l 1,4,-1
  725 1493 l 1,5,-1
  928 1493 l 1,6,-1
  670 170 l 1,7,-1
@@ -2334,8 +2335,21 @@ SplineSet
  946 0 l 1,9,-1
  123 0 l 1,10,-1
  156 170 l 1,0,-1
+  Spiro
+    156 170 v
+    469 170 v
+    680 1254 v
+    412 1050 v
+    334 1202 v
+    725 1493 v
+    928 1493 v
+    670 170 v
+    979 170 v
+    946 0 v
+    123 0 v
+    0 0 z
+  EndSpiro
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: two
@@ -4587,6 +4601,7 @@ SplineSet
  768 1565 l 1,3,-1
  940 1565 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceright
@@ -40305,6 +40320,7 @@ LayerCount: 2
 Fore
 Refer: 93 124 N 1 0 0 1 245 0 2
 Refer: 93 124 N 1 0 0 1 -245 0 2
+Validated: 1
 EndChar
 
 StartChar: underscoredbl
@@ -48219,6 +48235,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 93 124 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: logicaland

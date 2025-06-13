@@ -4,7 +4,7 @@ FullName: MonotionalAZ
 FamilyName: MonotionalAZ
 Weight: Book
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 2.4
+Version: 2.5
 ItalicAngle: 0
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749743115
+ModificationTime: 1749837979
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2304,7 +2304,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "MonotionalAZ" "" "Version 2.4" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "" "MonotionalAZ" "" "Version 2.5" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
@@ -2903,25 +2903,35 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-616 1360 m 0,0,1
- 475 1360 475 1360 405.5 1208 c 128,-1,2
- 336 1056 336 1056 336 745 c 0,3,4
- 336 435 336 435 405.5 283 c 128,-1,5
- 475 131 475 131 616 131 c 0,6,7
- 758 131 758 131 827.5 283 c 128,-1,8
- 897 435 897 435 897 745 c 0,9,10
- 897 1056 897 1056 827.5 1208 c 128,-1,11
- 758 1360 758 1360 616 1360 c 0,0,1
-616 1520 m 256,12,13
- 855 1520 855 1520 977.5 1324 c 128,-1,14
- 1100 1128 1100 1128 1100 745 c 0,15,16
- 1100 363 1100 363 977.5 167 c 128,-1,17
- 855 -29 855 -29 616 -29 c 256,18,19
- 377 -29 377 -29 255 167 c 128,-1,20
- 133 363 133 363 133 745 c 0,21,22
- 133 1128 133 1128 255 1324 c 128,-1,23
- 377 1520 377 1520 616 1520 c 256,12,13
+483 750 m 0,0,1
+ 483 805 483 805 521.5 845 c 128,-1,2
+ 560 885 560 885 614 885 c 0,3,4
+ 670 885 670 885 710 845 c 128,-1,5
+ 750 805 750 805 750 750 c 0,6,7
+ 750 694 750 694 710.5 655 c 128,-1,8
+ 671 616 671 616 614 616 c 0,9,10
+ 558 616 558 616 520.5 654 c 128,-1,11
+ 483 692 483 692 483 750 c 0,0,1
+616 1360 m 0,12,13
+ 475 1360 475 1360 405.5 1208 c 128,-1,14
+ 336 1056 336 1056 336 745 c 0,15,16
+ 336 435 336 435 405.5 283 c 128,-1,17
+ 475 131 475 131 616 131 c 0,18,19
+ 758 131 758 131 827.5 283 c 128,-1,20
+ 897 435 897 435 897 745 c 0,21,22
+ 897 1056 897 1056 827.5 1208 c 128,-1,23
+ 758 1360 758 1360 616 1360 c 0,12,13
+616 1520 m 256,24,25
+ 855 1520 855 1520 977.5 1324 c 128,-1,26
+ 1100 1128 1100 1128 1100 745 c 0,27,28
+ 1100 363 1100 363 977.5 167 c 128,-1,29
+ 855 -29 855 -29 616 -29 c 256,30,31
+ 377 -29 377 -29 255 167 c 128,-1,32
+ 133 363 133 363 133 745 c 0,33,34
+ 133 1128 133 1128 255 1324 c 128,-1,35
+ 377 1520 377 1520 616 1520 c 256,24,25
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: one
@@ -2933,9 +2943,9 @@ Fore
 SplineSet
 270 170 m 1,0,-1
  584 170 l 1,1,-1
- 584 1311 l 1,2,-1
- 270 1126 l 1,3,-1
- 270 1310 l 1,4,-1
+ 584 1286 l 1,2,-1
+ 346 1113 l 1,3,-1
+ 241 1247 l 5,4,-1
  582 1493 l 1,5,-1
  784 1493 l 1,6,-1
  784 170 l 1,7,-1
@@ -2944,7 +2954,6 @@ SplineSet
  270 0 l 1,10,-1
  270 170 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: two
@@ -91526,6 +91535,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 17 48 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: u1D7F7
@@ -91535,7 +91545,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 18 49 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: u1D7F8

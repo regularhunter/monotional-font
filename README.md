@@ -2,14 +2,14 @@
 
 # Monotional
 
-### Version 2.4
+### Version 2.5
 
 https://github.com/regularhunter/monotional-font
 
 Monotional is a humanist, monospace font based on 
 [DejaVu Sans Mono](https://github.com/dejavu-fonts/dejavu-fonts) and 
 inspired by André Berg's [Meslo](https://github.com/andreberg/Meslo-Font). 
-There are three versions of Monotional: Monotional (dotted zero), 
+There are three variants of Monotional: Monotional (dotted zero), 
 MonotionalSZ (slashed zero), and MonotionalAZ (ambiguous zero).
 
 ![Zero comparison](doc/monotional-zeroes.png)
@@ -35,9 +35,14 @@ Bitstream Vera Sans Mono.
 See the [latest release](https://github.com/regularhunter/monotional-font/releases) 
 for more information.
 
+**v2.5**
+
+ * Rework all versions of ` 1 ` glyph
+
 **v2.4**
 
  * Center italic and bold-italic glyph for ` | `
+ * Add SZ (slashed zero) and AZ (ambiguous zero) variants
 
 **v2.3**
 
