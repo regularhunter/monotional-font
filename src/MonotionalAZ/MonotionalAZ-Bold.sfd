@@ -4,7 +4,7 @@ FullName: MonotionalAZ Bold
 FamilyName: MonotionalAZ
 Weight: Bold
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 2.5
+Version: 2.6
 ItalicAngle: 0
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749839646
+ModificationTime: 1750091511
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1708,14 +1708,14 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "MonotionalAZ Bold" "" "Version 2.5" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "" "MonotionalAZ Bold" "" "Version 2.6" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 46 46 17
+WinInfo: 0 46 17
 BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
@@ -2261,6 +2261,7 @@ SplineSet
  172 489 l 5,3,-1
  172 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: period
@@ -2298,7 +2299,7 @@ EndChar
 StartChar: zero
 Encoding: 48 48 17
 Width: 1233
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -2321,6 +2322,7 @@ SplineSet
  369 -29 369 -29 246 164.5 c 128,-1,23
  123 358 123 358 123 745 c 0,12,13
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: one
@@ -2358,6 +2360,7 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: two
@@ -2717,6 +2720,7 @@ SplineSet
  88 752 l 1,7,-1
  88 987 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: greater
@@ -5096,6 +5100,7 @@ SplineSet
  172 489 l 5,3,-1
  172 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: registered
@@ -42636,6 +42641,7 @@ SplineSet
  172 489 l 5,3,-1
  172 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2011
@@ -42645,6 +42651,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1962 8208 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: figuredash
@@ -42660,6 +42667,7 @@ SplineSet
  43 489 l 5,3,-1
  43 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: endash
@@ -42675,6 +42683,7 @@ SplineSet
  86 489 l 5,3,-1
  86 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: emdash
@@ -42690,6 +42699,7 @@ SplineSet
  0 489 l 5,3,-1
  0 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2015
@@ -42705,6 +42715,7 @@ SplineSet
  0 489 l 5,3,-1
  0 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2016
@@ -51523,6 +51534,7 @@ LayerCount: 2
 Fore
 Refer: 30 61 N 1 0 0 1 0 0 2
 Refer: 2375 8901 N 1 0 0 1 1 553 2
+Validated: 1
 EndChar
 
 StartChar: uni2251
@@ -51534,6 +51546,7 @@ Fore
 Refer: 30 61 N 1 0 0 1 0 0 2
 Refer: 2375 8901 N 1 0 0 1 1 -696 2
 Refer: 2375 8901 N 1 0 0 1 1 553 2
+Validated: 1
 EndChar
 
 StartChar: uni2252
@@ -51545,6 +51558,7 @@ Fore
 Refer: 2375 8901 N 1 0 0 1 -361 553 2
 Refer: 2375 8901 N 1 0 0 1 363 -696 2
 Refer: 30 61 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni2253
@@ -51556,6 +51570,7 @@ Fore
 Refer: 30 61 N 1 0 0 1 0 0 2
 Refer: 2375 8901 N 1 0 0 1 -361 -696 2
 Refer: 2375 8901 N 1 0 0 1 364 553 2
+Validated: 1
 EndChar
 
 StartChar: uni2254

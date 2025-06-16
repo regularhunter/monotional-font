@@ -4,7 +4,7 @@ FullName: Monotional
 FamilyName: Monotional
 Weight: Book
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 2.5
+Version: 2.6
 ItalicAngle: 0
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1749836574
+ModificationTime: 1750091057
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2304,7 +2304,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Monotional" "" "Version 2.5" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "" "Monotional" "" "Version 2.6" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
@@ -2937,7 +2937,7 @@ EndChar
 StartChar: one
 Encoding: 49 49 18
 Width: 1233
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -43317,13 +43317,12 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-43 633 m 1,0,-1
- 1189 633 l 1,1,-1
- 1189 491 l 5,2,-1
- 43 491 l 5,3,-1
- 43 633 l 1,0,-1
+43 724 m 1,0,-1
+ 1189 724 l 1,1,-1
+ 1189 554 l 1,2,-1
+ 43 554 l 1,3,-1
+ 43 724 l 1,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: endash
@@ -43333,11 +43332,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-86 724 m 1,0,-1
- 1146 724 l 1,1,-1
+86 724 m 5,0,-1
+ 1146 724 l 5,1,-1
  1146 554 l 5,2,-1
  86 554 l 5,3,-1
- 86 724 l 1,0,-1
+ 86 724 l 5,0,-1
 EndSplineSet
 Validated: 1
 EndChar
