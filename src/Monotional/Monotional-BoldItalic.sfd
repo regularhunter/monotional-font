@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1750091268
+ModificationTime: 1750092386
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1937,6 +1937,7 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: two
@@ -4152,6 +4153,7 @@ SplineSet
  703 1565 l 5,3,-1
  930 1565 l 5,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceright
@@ -40365,12 +40367,13 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-88.998046875 724 m 5,0,-1
- 1188.99804688 724 l 5,1,-1
- 1142.99804688 554 l 1,2,-1
- 42.998046875 554 l 1,3,-1
- 88.998046875 724 l 5,0,-1
+88.998046875 724 m 1,0,-1
+ 1188.99804688 724 l 1,1,-1
+ 1142.99804688 489 l 5,2,-1
+ 42.998046875 489 l 5,3,-1
+ 88.998046875 724 l 1,0,-1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: endash
@@ -40429,6 +40432,7 @@ LayerCount: 2
 Fore
 Refer: 93 124 N 1 0 0 1 245 0 2
 Refer: 93 124 N 1 0 0 1 -245 0 2
+Validated: 1
 EndChar
 
 StartChar: underscoredbl
@@ -48282,6 +48286,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 93 124 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: logicaland
