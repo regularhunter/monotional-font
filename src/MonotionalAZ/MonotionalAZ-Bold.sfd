@@ -4,7 +4,7 @@ FullName: MonotionalAZ Bold
 FamilyName: MonotionalAZ
 Weight: Bold
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 2.6
+Version: 2.7
 ItalicAngle: 0
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1750091511
+ModificationTime: 1750887285
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1708,7 +1708,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "MonotionalAZ Bold" "" "Version 2.6" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "" "MonotionalAZ Bold" "" "Version 2.7" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
@@ -2036,29 +2036,29 @@ SplineSet
  489 1054 489 1054 489 1112 c 0,21,22
  489 1169 489 1169 449 1209 c 128,-1,23
  409 1249 409 1249 352 1249 c 256,12,13
-53 232 m 1,24,-1
- 1093 1280 l 1,25,-1
- 1191 1190 l 5,26,-1
- 144 140 l 5,27,-1
- 53 232 l 1,24,-1
-580 319 m 256,28,29
- 580 453 580 453 672.5 546 c 128,-1,30
- 765 639 765 639 899 639 c 0,31,32
- 1031 639 1031 639 1125 545.5 c 128,-1,33
- 1219 452 1219 452 1219 319 c 0,34,35
- 1219 187 1219 187 1125 93.5 c 128,-1,36
- 1031 0 1031 0 899 0 c 0,37,38
- 765 0 765 0 672.5 92.5 c 128,-1,39
- 580 185 580 185 580 319 c 256,28,29
-897 457 m 0,40,41
- 841 457 841 457 801.5 417 c 128,-1,42
- 762 377 762 377 762 319 c 256,43,44
- 762 261 762 261 801 221.5 c 128,-1,45
- 840 182 840 182 897 182 c 0,46,47
- 955 182 955 182 995.5 222 c 128,-1,48
- 1036 262 1036 262 1036 319 c 256,49,50
- 1036 376 1036 376 995 416.5 c 128,-1,51
- 954 457 954 457 897 457 c 0,40,41
+53 242 m 1,24,-1
+ 1093 1290 l 1,25,-1
+ 1191 1200 l 1,26,-1
+ 144 150 l 1,27,-1
+ 53 242 l 1,24,-1
+561 319 m 256,28,29
+ 561 453 561 453 653.5 546 c 128,-1,30
+ 746 639 746 639 880 639 c 0,31,32
+ 1012 639 1012 639 1106 545.5 c 128,-1,33
+ 1200 452 1200 452 1200 319 c 0,34,35
+ 1200 187 1200 187 1106 93.5 c 128,-1,36
+ 1012 0 1012 0 880 0 c 0,37,38
+ 746 0 746 0 653.5 92.5 c 128,-1,39
+ 561 185 561 185 561 319 c 256,28,29
+878 457 m 0,40,41
+ 822 457 822 457 782.5 417 c 128,-1,42
+ 743 377 743 377 743 319 c 256,43,44
+ 743 261 743 261 782 221.5 c 128,-1,45
+ 821 182 821 182 878 182 c 0,46,47
+ 936 182 936 182 976.5 222 c 128,-1,48
+ 1017 262 1017 262 1017 319 c 256,49,50
+ 1017 376 1017 376 976 416.5 c 128,-1,51
+ 935 457 935 457 878 457 c 0,40,41
 EndSplineSet
 Validated: 1
 EndChar

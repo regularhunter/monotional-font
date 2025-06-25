@@ -4,7 +4,7 @@ FullName: MonotionalSZ Bold
 FamilyName: MonotionalSZ
 Weight: Bold
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 2.6
+Version: 2.7
 ItalicAngle: 0
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1750091652
+ModificationTime: 1750887547
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1708,7 +1708,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "MonotionalSZ Bold" "" "Version 2.6" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "" "MonotionalSZ Bold" "" "Version 2.7" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
@@ -2036,29 +2036,29 @@ SplineSet
  489 1054 489 1054 489 1112 c 0,21,22
  489 1169 489 1169 449 1209 c 128,-1,23
  409 1249 409 1249 352 1249 c 256,12,13
-53 232 m 1,24,-1
- 1093 1280 l 1,25,-1
- 1191 1190 l 5,26,-1
- 144 140 l 5,27,-1
- 53 232 l 1,24,-1
-580 319 m 256,28,29
- 580 453 580 453 672.5 546 c 128,-1,30
- 765 639 765 639 899 639 c 0,31,32
- 1031 639 1031 639 1125 545.5 c 128,-1,33
- 1219 452 1219 452 1219 319 c 0,34,35
- 1219 187 1219 187 1125 93.5 c 128,-1,36
- 1031 0 1031 0 899 0 c 0,37,38
- 765 0 765 0 672.5 92.5 c 128,-1,39
- 580 185 580 185 580 319 c 256,28,29
-897 457 m 0,40,41
- 841 457 841 457 801.5 417 c 128,-1,42
- 762 377 762 377 762 319 c 256,43,44
- 762 261 762 261 801 221.5 c 128,-1,45
- 840 182 840 182 897 182 c 0,46,47
- 955 182 955 182 995.5 222 c 128,-1,48
- 1036 262 1036 262 1036 319 c 256,49,50
- 1036 376 1036 376 995 416.5 c 128,-1,51
- 954 457 954 457 897 457 c 0,40,41
+53 242 m 1,24,-1
+ 1093 1290 l 1,25,-1
+ 1191 1200 l 1,26,-1
+ 144 150 l 1,27,-1
+ 53 242 l 1,24,-1
+570 319 m 256,28,29
+ 570 453 570 453 662.5 546 c 128,-1,30
+ 755 639 755 639 889 639 c 0,31,32
+ 1021 639 1021 639 1115 545.5 c 128,-1,33
+ 1209 452 1209 452 1209 319 c 0,34,35
+ 1209 187 1209 187 1115 93.5 c 128,-1,36
+ 1021 0 1021 0 889 0 c 0,37,38
+ 755 0 755 0 662.5 92.5 c 128,-1,39
+ 570 185 570 185 570 319 c 256,28,29
+887 457 m 0,40,41
+ 831 457 831 457 791.5 417 c 128,-1,42
+ 752 377 752 377 752 319 c 256,43,44
+ 752 261 752 261 791 221.5 c 128,-1,45
+ 830 182 830 182 887 182 c 0,46,47
+ 945 182 945 182 985.5 222 c 128,-1,48
+ 1026 262 1026 262 1026 319 c 256,49,50
+ 1026 376 1026 376 985 416.5 c 128,-1,51
+ 944 457 944 457 887 457 c 0,40,41
 EndSplineSet
 Validated: 1
 EndChar
@@ -2261,6 +2261,7 @@ SplineSet
  172 489 l 5,3,-1
  172 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: period
@@ -2326,6 +2327,7 @@ SplineSet
  766 1145 l 1,29,30
  719.0005 1269.995 719.0005 1269.995 616 1270 c 0,22,23
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: one
@@ -2363,6 +2365,7 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: two
@@ -2722,6 +2725,7 @@ SplineSet
  88 752 l 1,7,-1
  88 987 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: greater
@@ -5101,6 +5105,7 @@ SplineSet
  172 489 l 5,3,-1
  172 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: registered
@@ -42641,6 +42646,7 @@ SplineSet
  172 489 l 5,3,-1
  172 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2011
@@ -42650,6 +42656,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 1962 8208 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: figuredash
@@ -42665,6 +42672,7 @@ SplineSet
  43 489 l 5,3,-1
  43 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: endash
@@ -42680,6 +42688,7 @@ SplineSet
  86 489 l 5,3,-1
  86 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: emdash
@@ -42695,6 +42704,7 @@ SplineSet
  0 489 l 5,3,-1
  0 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2015
@@ -42710,6 +42720,7 @@ SplineSet
  0 489 l 5,3,-1
  0 724 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2016
@@ -51528,6 +51539,7 @@ LayerCount: 2
 Fore
 Refer: 30 61 N 1 0 0 1 0 0 2
 Refer: 2375 8901 N 1 0 0 1 1 553 2
+Validated: 1
 EndChar
 
 StartChar: uni2251
@@ -51539,6 +51551,7 @@ Fore
 Refer: 30 61 N 1 0 0 1 0 0 2
 Refer: 2375 8901 N 1 0 0 1 1 -696 2
 Refer: 2375 8901 N 1 0 0 1 1 553 2
+Validated: 1
 EndChar
 
 StartChar: uni2252
@@ -51550,6 +51563,7 @@ Fore
 Refer: 2375 8901 N 1 0 0 1 -361 553 2
 Refer: 2375 8901 N 1 0 0 1 363 -696 2
 Refer: 30 61 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: uni2253
@@ -51561,6 +51575,7 @@ Fore
 Refer: 30 61 N 1 0 0 1 0 0 2
 Refer: 2375 8901 N 1 0 0 1 -361 -696 2
 Refer: 2375 8901 N 1 0 0 1 364 553 2
+Validated: 1
 EndChar
 
 StartChar: uni2254

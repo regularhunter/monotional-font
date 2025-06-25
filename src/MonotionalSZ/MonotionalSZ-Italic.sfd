@@ -4,7 +4,7 @@ FullName: MonotionalSZ Italic
 FamilyName: MonotionalSZ
 Weight: Book
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 2.6
+Version: 2.7
 ItalicAngle: -11
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1750091584
+ModificationTime: 1750887430
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1691,14 +1691,14 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "MonotionalSZ Italic" "" "Version 2.6" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "" "MonotionalSZ Italic" "" "Version 2.7" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 46 46 17
+WinInfo: 0 46 17
 BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
@@ -2022,11 +2022,11 @@ SplineSet
  1014 0 1014 0 879 0 c 0,24,25
  743 0 743 0 652 91.5 c 128,-1,26
  561 183 561 183 561 319 c 0,12,13
-144 140 m 1,27,-1
- 53 232 l 1,28,-1
- 1091 1280 l 1,29,-1
- 1191 1190 l 1,30,-1
- 144 140 l 1,27,-1
+144 150 m 5,27,-1
+ 53 242 l 5,28,-1
+ 1091 1290 l 5,29,-1
+ 1191 1200 l 5,30,-1
+ 144 150 l 5,27,-1
 168 1112 m 0,31,32
  168 1033 168 1033 220.5 980.5 c 128,-1,33
  273 928 273 928 352 928 c 0,34,35
@@ -2308,6 +2308,7 @@ SplineSet
  905 1232 l 1,25,26
  854 1362.995 854 1362.995 725 1358 c 0,19,20
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: one
@@ -2345,6 +2346,7 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: two

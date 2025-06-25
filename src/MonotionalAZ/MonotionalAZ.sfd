@@ -4,7 +4,7 @@ FullName: MonotionalAZ
 FamilyName: MonotionalAZ
 Weight: Book
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 2.6
+Version: 2.7
 ItalicAngle: 0
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1750091531
+ModificationTime: 1750887355
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2304,7 +2304,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "MonotionalAZ" "" "Version 2.6" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "" "MonotionalAZ" "" "Version 2.7" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
@@ -2610,7 +2610,7 @@ EndChar
 StartChar: percent
 Encoding: 37 37 6
 Width: 1233
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
@@ -2634,11 +2634,11 @@ SplineSet
  1014 0 1014 0 879 0 c 0,24,25
  743 0 743 0 652 91.5 c 128,-1,26
  561 183 561 183 561 319 c 0,12,13
-144 140 m 1,27,-1
- 53 232 l 5,28,-1
- 1093 1280 l 1,29,-1
- 1191 1190 l 1,30,-1
- 144 140 l 1,27,-1
+144 150 m 1,27,-1
+ 53 242 l 1,28,-1
+ 1093 1290 l 1,29,-1
+ 1191 1200 l 1,30,-1
+ 144 150 l 1,27,-1
 168 1112 m 0,31,32
  168 1033 168 1033 220.5 980.5 c 128,-1,33
  273 928 273 928 352 928 c 0,34,35
@@ -2660,7 +2660,6 @@ SplineSet
  217 793 217 793 125 885 c 128,-1,57
  33 977 33 977 33 1112 c 256,43,44
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: ampersand
