@@ -38,7 +38,7 @@ for more information.
 
 **v2.7**
 
- * Rework ` % ` glyph
+ * Rework ` % ` glyph for all fonts
 
 **v2.6**
 
