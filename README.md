@@ -38,6 +38,7 @@ for more information.
 
 **v2.8**
 
+ * Align ` % ` and ` ~ ` to integer coordinates
  * Scale ` % ` glyph to 104% of original size
 
 **v2.7**
