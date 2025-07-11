@@ -4,7 +4,7 @@ FullName: MonotionalSZ Bold Italic
 FamilyName: MonotionalSZ
 Weight: Bold
 Copyright: Copyright (c) 2025 Hunter Wardlaw. All Rights Reserved.\nCopyright (c) 2014 The Fira Code Project Authors.\nCopyright (c) 2006 Tavmjong Bah. All Rights Reserved.\nCopyright (c) 2003 Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain.
-Version: 2.8
+Version: 2.9
 ItalicAngle: -11
 UnderlinePosition: -85
 UnderlineWidth: 90
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1750980045
+ModificationTime: 1751338876
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1273,14 +1273,14 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Bold Italic" "MonotionalSZ Bold Italic" "" "Version 2.8" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
+LangName: 1033 "" "" "Bold Italic" "MonotionalSZ Bold Italic" "" "Version 2.9" "" "" "Hunter Wardlaw" "" "" "https://github.com/regularhunter/monotional-font" "" "SIL Open Font License Version 1.1" "https://openfontlicense.org/documents/OFL.txt"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 45 20
+WinInfo: 0 47 17
 BeginPrivate: 0
 EndPrivate
 GridOrder2: 1
@@ -1583,49 +1583,48 @@ Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-10 1156.5 m 132,-1,1
- 10 1296 10 1296 106.5 1393 c 132,-1,2
- 203 1490 203 1490 341.5 1490 c 132,-1,3
- 480 1490 480 1490 577 1392.5 c 132,-1,4
- 674 1295 674 1295 674 1157 c 132,-1,5
- 674 1019 674 1019 577 922 c 132,-1,6
- 480 825 480 825 341.5 825 c 132,-1,7
- 203 825 203 825 106.5 921 c 132,-1,0
- 10 1017 10 1017 10 1156.5 c 132,-1,1
-341.5 1299 m 132,-1,9
- 282 1299 282 1299 240.5 1258 c 132,-1,10
- 199 1217 199 1217 199 1157 c 132,-1,11
- 199 1097 199 1097 240.5 1055.5 c 132,-1,12
- 282 1014 282 1014 341 1014 c 4,13,14
- 401 1014 401 1014 442.5 1055.5 c 132,-1,15
- 484 1097 484 1097 484 1157 c 4,16,17
- 484 1216 484 1216 442.5 1257.5 c 132,-1,8
- 401 1299 401 1299 341.5 1299 c 132,-1,9
-53 271 m 1,18,-1
- 1093 1319 l 1,19,-1
- 1191 1229 l 1,20,-1
- 144 179 l 1,21,-1
- 53 271 l 1,18,-1
-559 332 m 132,-1,23
- 559 471 559 471 655 568 c 132,-1,24
- 751 665 751 665 891 665 c 4,25,26
- 1028 665 1028 665 1126 568 c 4,27,28
- 1223 470 1223 470 1223 332 c 4,29,30
- 1223 195 1223 195 1125.5 97.5 c 132,-1,31
- 1028 0 1028 0 891 0 c 4,32,33
- 751 0 751 0 655 96.5 c 132,-1,22
- 559 193 559 193 559 332 c 132,-1,23
-888 476 m 4,34,35
- 830 476 830 476 789 434 c 132,-1,36
- 748 392 748 392 748 332 c 132,-1,37
- 748 272 748 272 789 231 c 4,38,39
- 829 190 829 190 888 190 c 4,40,41
- 949 190 949 190 991 231 c 4,42,43
- 1033 273 1033 273 1033 332 c 132,-1,44
- 1033 391 1033 391 990 434 c 4,45,46
- 948 476 948 476 888 476 c 4,34,35
+33 1112 m 256,0,1
+ 33 1246 33 1246 126 1339 c 128,-1,2
+ 219 1432 219 1432 352 1432 c 256,3,4
+ 485 1432 485 1432 578.5 1338.5 c 128,-1,5
+ 672 1245 672 1245 672 1112 c 256,6,7
+ 672 979 672 979 578.5 886 c 128,-1,8
+ 485 793 485 793 352 793 c 256,9,10
+ 219 793 219 793 126 885.5 c 128,-1,11
+ 33 978 33 978 33 1112 c 256,0,1
+352 1249 m 256,12,13
+ 295 1249 295 1249 255 1209.5 c 128,-1,14
+ 215 1170 215 1170 215 1112 c 256,15,16
+ 215 1054 215 1054 255 1014.5 c 128,-1,17
+ 295 975 295 975 352 975 c 0,18,19
+ 410 975 410 975 449.5 1014.5 c 128,-1,20
+ 489 1054 489 1054 489 1112 c 0,21,22
+ 489 1169 489 1169 449 1209 c 128,-1,23
+ 409 1249 409 1249 352 1249 c 256,12,13
+53 242 m 1,24,-1
+ 1093 1290 l 1,25,-1
+ 1191 1200 l 1,26,-1
+ 144 150 l 1,27,-1
+ 53 242 l 1,24,-1
+561 319 m 260,28,29
+ 561 453 561 453 653.5 546 c 132,-1,30
+ 746 639 746 639 880 639 c 4,31,32
+ 1012 639 1012 639 1106 545.5 c 132,-1,33
+ 1200 452 1200 452 1200 319 c 4,34,35
+ 1200 187 1200 187 1106 93.5 c 132,-1,36
+ 1012 0 1012 0 880 0 c 4,37,38
+ 746 0 746 0 653.5 92.5 c 132,-1,39
+ 561 185 561 185 561 319 c 260,28,29
+878 457 m 4,40,41
+ 822 457 822 457 782.5 417 c 132,-1,42
+ 743 377 743 377 743 319 c 260,43,44
+ 743 261 743 261 782 221.5 c 132,-1,45
+ 821 182 821 182 878 182 c 4,46,47
+ 936 182 936 182 976.5 222 c 132,-1,48
+ 1017 262 1017 262 1017 319 c 260,49,50
+ 1017 376 1017 376 976 416.5 c 132,-1,51
+ 935 457 935 457 878 457 c 4,40,41
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: ampersand
@@ -1893,7 +1892,6 @@ SplineSet
  845 1109 l 1,40,41
  839 1179.005 839 1179.005 815 1218 c 0,30,31
 EndSplineSet
-Validated: 524321
 EndChar
 
 StartChar: one
@@ -1931,7 +1929,6 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: two
@@ -4147,7 +4144,6 @@ SplineSet
  703 1565 l 5,3,-1
  930 1565 l 5,0,-1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: braceright
@@ -4227,7 +4223,6 @@ SplineSet
  188 776 188 776 255.5 821.5 c 132,-1,24
  323 867 323 867 416 867 c 4,0,1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: nonbreakingspace
@@ -40367,7 +40362,6 @@ SplineSet
  42.998046875 489 l 5,3,-1
  88.998046875 724 l 1,0,-1
 EndSplineSet
-Validated: 524289
 EndChar
 
 StartChar: endash
@@ -40426,7 +40420,6 @@ LayerCount: 2
 Fore
 Refer: 93 124 N 1 0 0 1 245 0 2
 Refer: 93 124 N 1 0 0 1 -245 0 2
-Validated: 1
 EndChar
 
 StartChar: underscoredbl
@@ -48280,7 +48273,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 93 124 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: logicaland
@@ -55630,7 +55622,6 @@ LayerCount: 2
 Fore
 Refer: 3105 -1 N 1 0 0 1 0 -200 2
 Refer: 95 126 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: uni2369
