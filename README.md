@@ -20,8 +20,8 @@ zero), MonotionalSZ (slashed zero), and MonotionalAZ (ambiguous zero).
 This effort began while I was maintaining a 
 [downstream fork of Meslo](https://github.com/regularhunter/Meslo-Font/) 
 in order to fix some issues with it until I realized that it would be easier to 
-start over from scratch with DejaVu Sans Mono which is itself based on 
-Bitstream Vera Sans Mono.
+start over from scratch with DejaVu Sans Mono (which is itself based on 
+Bitstream Vera Sans Mono).
 
 ![Ipsum lorem](doc/monotional-ipsumlorem.png)
 
