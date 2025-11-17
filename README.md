@@ -164,6 +164,9 @@ To Jim Lyles and Bitstream for the Bitstream Vera family of fonts.
 
 To André Berg for Meslo and inspiring some of the changes in Monotional.
 
+To [bentodvictor](https://github.com/bentodvictor) for the Nerd Font 
+patched versions of Monotional.
+
 To George Williams for the free font editing program 
 [FontForge](http://fontforge.org).
 
