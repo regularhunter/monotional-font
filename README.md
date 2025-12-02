@@ -38,7 +38,7 @@ for more information.
 
 **v2.10**
 
-* Add back scaling of ` % ` glyph
+* Rescale ` % ` glyph to 104% of original size
 
 **v2.9**
 
