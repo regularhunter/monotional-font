@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1469872272
-ModificationTime: 1750979768
+ModificationTime: 1791503520
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2436,7 +2436,7 @@ Grid
  0 1901 l 1,5,-1
 EndSplineSet
 AnchorClass2: "cedilla" "'mark' cedilla" "lao-below" "'mark' Mark positioning in Lao" "lao-above" "'mark' Mark positioning in Lao" "above" "'mark' above, below" "below" "'mark' above, below" "rtl-above" "'mark' Mark Positioning in Arabic lookup 5" "Ligature rtl-above" "'mark' Mark Positioning in Arabic lookup 4" "rtl-below" "'mark' Mark Positioning in Arabic lookup 3" "Ligature rtl-below" "'mark' Mark Positioning in Arabic lookup 2" "rtl-above-mark" "'mkmk' Mark to Mark in Arabic lookup 1" "rtl-below-mark" "'mkmk' Mark to Mark in Arabic lookup 0"
-BeginChars: 1114165 3776
+BeginChars: 1114165 3822
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -92812,6 +92812,493 @@ LayerCount: 2
 Fore
 Refer: 3398 11800 N 1 0 0 1 0 373 3
 Validated: 1
+EndChar
+
+StartChar: uni1EA2
+Encoding: 7842 7842 3776
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 92.475 558.9 2
+Refer: 34 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EA3
+Encoding: 7843 7843 3777
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 1 0 0 1 0 0 2
+Refer: 66 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EBA
+Encoding: 7866 7866 3778
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 110.475 558.9 2
+Refer: 38 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EBB
+Encoding: 7867 7867 3779
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 1 0 0 1 14 0 2
+Refer: 70 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EC8
+Encoding: 7880 7880 3780
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 92.475 558.9 2
+Refer: 42 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EC9
+Encoding: 7881 7881 3781
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 1 0 0 1 60 0 2
+Refer: 241 305 N 1 0 0 1 60 0 2
+EndChar
+
+StartChar: uni1ECE
+Encoding: 7886 7886 3782
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 92.475 558.9 2
+Refer: 48 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1ECF
+Encoding: 7887 7887 3783
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 1 0 0 1 0 0 2
+Refer: 80 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EDE
+Encoding: 7902 7902 3784
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 -18.525 558.9 2
+Refer: 352 416 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EDF
+Encoding: 7903 7903 3785
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 1 0 0 1 -105 0 2
+Refer: 353 417 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EE6
+Encoding: 7910 7910 3786
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 92.475 558.9 2
+Refer: 54 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EE7
+Encoding: 7911 7911 3787
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 1 0 0 1 0 0 2
+Refer: 86 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EEC
+Encoding: 7916 7916 3788
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 -45.525 558.9 2
+Refer: 367 431 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EED
+Encoding: 7917 7917 3789
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 1 0 0 1 -156 0 2
+Refer: 368 432 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EF6
+Encoding: 7926 7926 3790
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 92.475 558.9 2
+Refer: 58 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EF7
+Encoding: 7927 7927 3791
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 1 0 0 1 0 0 2
+Refer: 90 121 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EA4
+Encoding: 7844 7844 3792
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3726 -1 N 1 0 0 1 365 480 2
+Refer: 3729 -1 N 1 0 0 1 0 273 2
+Refer: 34 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EA6
+Encoding: 7846 7846 3793
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3728 -1 N 1 0 0 1 290 480 2
+Refer: 3729 -1 N 1 0 0 1 0 273 2
+Refer: 34 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EA8
+Encoding: 7848 7848 3794
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 407.925 569.9 2
+Refer: 3729 -1 N 1 0 0 1 0 273 2
+Refer: 34 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EAA
+Encoding: 7850 7850 3795
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3727 -1 N 1 0 0 1 4 552 2
+Refer: 3729 -1 N 1 0 0 1 0 273 2
+Refer: 34 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EA5
+Encoding: 7845 7845 3796
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3726 -1 N 1 0 0 1 365 207 2
+Refer: 3729 -1 N 1 0 0 1 0 0 2
+Refer: 66 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EA7
+Encoding: 7847 7847 3797
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3728 -1 N 1 0 0 1 290 207 2
+Refer: 3729 -1 N 1 0 0 1 0 0 2
+Refer: 66 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EA9
+Encoding: 7849 7849 3798
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 407.925 296.9 2
+Refer: 3729 -1 N 1 0 0 1 0 0 2
+Refer: 66 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EAB
+Encoding: 7851 7851 3799
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3727 -1 N 1 0 0 1 4 279 2
+Refer: 3729 -1 N 1 0 0 1 0 0 2
+Refer: 66 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EBE
+Encoding: 7870 7870 3800
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3726 -1 N 1 0 0 1 383 480 2
+Refer: 3729 -1 N 1 0 0 1 18 273 2
+Refer: 38 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EC0
+Encoding: 7872 7872 3801
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3728 -1 N 1 0 0 1 308 480 2
+Refer: 3729 -1 N 1 0 0 1 18 273 2
+Refer: 38 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EC2
+Encoding: 7874 7874 3802
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 425.925 569.9 2
+Refer: 3729 -1 N 1 0 0 1 18 273 2
+Refer: 38 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EC4
+Encoding: 7876 7876 3803
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3727 -1 N 1 0 0 1 22 552 2
+Refer: 3729 -1 N 1 0 0 1 18 273 2
+Refer: 38 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EBF
+Encoding: 7871 7871 3804
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3726 -1 N 1 0 0 1 379 207 2
+Refer: 3729 -1 N 1 0 0 1 14 0 2
+Refer: 70 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EC1
+Encoding: 7873 7873 3805
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3728 -1 N 1 0 0 1 304 207 2
+Refer: 3729 -1 N 1 0 0 1 14 0 2
+Refer: 70 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EC3
+Encoding: 7875 7875 3806
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 421.925 296.9 2
+Refer: 3729 -1 N 1 0 0 1 14 0 2
+Refer: 70 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EC5
+Encoding: 7877 7877 3807
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3727 -1 N 1 0 0 1 18 279 2
+Refer: 3729 -1 N 1 0 0 1 14 0 2
+Refer: 70 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1ED0
+Encoding: 7888 7888 3808
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3726 -1 N 1 0 0 1 365 480 2
+Refer: 3729 -1 N 1 0 0 1 0 273 2
+Refer: 48 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1ED2
+Encoding: 7890 7890 3809
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3728 -1 N 1 0 0 1 290 480 2
+Refer: 3729 -1 N 1 0 0 1 0 273 2
+Refer: 48 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1ED4
+Encoding: 7892 7892 3810
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 407.925 569.9 2
+Refer: 3729 -1 N 1 0 0 1 0 273 2
+Refer: 48 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1ED6
+Encoding: 7894 7894 3811
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3727 -1 N 1 0 0 1 4 552 2
+Refer: 3729 -1 N 1 0 0 1 0 273 2
+Refer: 48 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1ED1
+Encoding: 7889 7889 3812
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3726 -1 N 1 0 0 1 365 207 2
+Refer: 3729 -1 N 1 0 0 1 0 0 2
+Refer: 80 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1ED3
+Encoding: 7891 7891 3813
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3728 -1 N 1 0 0 1 290 207 2
+Refer: 3729 -1 N 1 0 0 1 0 0 2
+Refer: 80 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1ED5
+Encoding: 7893 7893 3814
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 407.925 296.9 2
+Refer: 3729 -1 N 1 0 0 1 0 0 2
+Refer: 80 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1ED7
+Encoding: 7895 7895 3815
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3727 -1 N 1 0 0 1 4 279 2
+Refer: 3729 -1 N 1 0 0 1 0 0 2
+Refer: 80 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EAE
+Encoding: 7854 7854 3816
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3726 -1 N 1 0 0 1 0 515 2
+Refer: 34 65 N 1 0 0 1 0 0 2
+Refer: 3733 -1 N 1 0 0 1 0 -128 2
+EndChar
+
+StartChar: uni1EB4
+Encoding: 7860 7860 3817
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3727 -1 N 1 0 0 1 0 483 2
+Refer: 34 65 N 1 0 0 1 0 0 2
+Refer: 3733 -1 N 1 0 0 1 0 -128 2
+EndChar
+
+StartChar: uni1EB2
+Encoding: 7858 7858 3818
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 92.475 580.9 2
+Refer: 34 65 N 1 0 0 1 0 0 2
+Refer: 3733 -1 N 1 0 0 1 0 -128 2
+EndChar
+
+StartChar: uni1EAF
+Encoding: 7855 7855 3819
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 656 769 N 1 0 0 1 0 316 2
+Refer: 195 259 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EB5
+Encoding: 7861 7861 3820
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 658 771 N 1 0 0 1 0 339 2
+Refer: 195 259 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EB3
+Encoding: 7859 7859 3821
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 664 777 N 0.85 0 0 0.85 92.475 501.9 2
+Refer: 195 259 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
