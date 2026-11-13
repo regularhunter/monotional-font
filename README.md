@@ -31,6 +31,27 @@ Bitstream Vera Sans Mono).
 
 *Figure 3: Monotional glyph chart*
 
+### Unhinted Build
+
+On Windows, the hinted fonts can render blurry on low-pixel-density
+(low-DPI) displays. The `build_unhint.py` script rebuilds each font from
+its binary with all hinting removed, producing a crisper `{stem}-unhint.ttf`.
+Using the unhinted build resolves this blurriness on such displays:
+
+* TrueType instructions (`fpgm`/`prep`/`cvt`, per-glyph, and composite
+  grid-fitting flags) are never extracted.
+* PostScript (CFF Private DICT) hinting values are cleared.
+
+#### Usage
+
+```
+pip install -r requirements.txt
+python build_unhint.py ttf_ori              # -> ./unhint_ttf/*-unhint.ttf
+python build_unhint.py ttf_ori --keep-ufo   # also keep ./ufo/*.ufo
+```
+
+Run with `--help` to see output/UFO directory options.
+
 ### Changelog
 
 See the [latest release](https://github.com/regularhunter/monotional-font/releases) 
